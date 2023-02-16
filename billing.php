@@ -8,12 +8,7 @@ if(isset($_POST[submit]))
 	include("insertbillingrecord.php");
 }
 ?>
-<div class="wrapper col2">
-  <div id="breadcrumb">
-    <ul>
-      <li class="first">Add Service Charge</li></ul>
-  </div>
-</div>
+
 <div class="wrapper col4">
   <div id="container">
     <h1>Add new Service Charge records</h1>
